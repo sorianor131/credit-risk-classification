@@ -12,7 +12,8 @@ Finally, the model's performance was to be evaluated by generating a confusion m
 ## Results
 
 * Machine Learning Model 1:
-    * Model 1 predicted healthy loans 100% of the time and predicted non-healthy loans 85% of the time. It had an accuracy score of 95%. 
+    * Model 1 predicted healthy loans 100% of the time and predicted non-healthy loans 85% of the time. It had an accuracy score of 95%.
+
     ![Model 1](Resources/Model%201%20Classification%20Report.png)
 
    * The model has excellent performance in predicting healthy loans (0), with high precision, recall, and F1-score.
@@ -23,6 +24,7 @@ Overall, Model 1 demonstrates strong predictive capabilities for both healthy an
 
 * Machine Learning Model 2:
     * Model 2 predicted healthy loans 100% of the time and predicted non-healthy loans 84% of the time. It had an accuracy score of 99%.
+    
     ![Model 2](Resources/Model%202%20Classification%20Report.png)
 
     * The model has excellent performance in predicting healthy loans (0), with high precision, recall, and F1-score.
